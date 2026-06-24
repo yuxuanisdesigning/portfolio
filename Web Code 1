@@ -1,0 +1,86 @@
+const projectData = [
+  {
+    id: "red-braid",
+    tab: "art",
+    group: "Character Art",
+    title: "Red Braid",
+    year: "2026",
+    description: "Game character production piece focused on sculpt appeal, hair forms, clean topology, material breakup, and engine-ready presentation.",
+    notes: "Role: character modeling, texturing, and realtime presentation. Focus areas include appealing shape language, material separation, and clean production-ready topology.",
+    tags: ["Game Character", "Sculpt", "Textures", "Realtime"],
+    image: "assets/images/red-braid.svg",
+    link: "project.html?id=red-braid"
+  },
+  {
+    id: "viking",
+    tab: "art",
+    group: "Character Art",
+    title: "Viking",
+    year: "2026",
+    description: "A stylized-to-realistic game character study balancing readable silhouette, layered costume materials, grooming, and final look development.",
+    notes: "Role: character modeler and look development artist. Focus areas include costume layering, hair or fur readability, and final asset presentation.",
+    tags: ["Character Model", "Costume", "Groom", "Lookdev"],
+    image: "assets/images/viking.svg",
+    link: "project.html?id=viking"
+  },
+  {
+    id: "jennie-realistic",
+    tab: "art",
+    group: "Character Art",
+    title: "Jennie Realistic Character Model",
+    year: "Upcoming",
+    description: "Upcoming realistic portrait and character model project centered on likeness, skin shading, groom refinement, and presentation polish.",
+    notes: "Role: realistic character artist. Focus areas include likeness, anatomy, skin material response, groom polish, and portrait lighting.",
+    tags: ["Realistic Character", "Portrait", "Skin", "Groom"],
+    image: "assets/images/jennie.svg",
+    link: "project.html?id=jennie-realistic"
+  },
+  {
+    id: "rigging-work",
+    tab: "art",
+    group: "Technical Art",
+    title: "Character Rigging Work",
+    year: "2026",
+    description: "Technical art work covering deformation, animator-friendly controls, facial or body setup, and reliable production rig behavior.",
+    notes: "Role: technical artist. Focus areas include deformation quality, control clarity, rig reliability, and production-friendly setup decisions.",
+    tags: ["Rigging", "Deformation", "Tools", "Pipeline"],
+    image: "assets/images/rigging.svg",
+    link: "project.html?id=rigging-work"
+  },
+  {
+    id: "unreal-environment",
+    tab: "games",
+    group: "Game Projects",
+    title: "Unreal Environment",
+    year: "2026",
+    description: "Unreal Engine environment project with modular layout, lighting, material setup, mood, and realtime scene presentation.",
+    notes: "Role: environment and realtime artist. Focus areas include modular construction, lighting direction, material setup, and in-engine composition.",
+    tags: ["Unreal Engine", "Environment", "Lighting", "Materials"],
+    image: "assets/images/unreal-environment.svg",
+    link: "project.html?id=unreal-environment"
+  },
+  {
+    id: "four-racing-one",
+    tab: "games",
+    group: "Game Projects",
+    title: "4 Racing Game Dev Project I",
+    year: "2026",
+    description: "Racing game development project focused on prototype handling, track feel, visual direction, and playable iteration.",
+    notes: "Role: game developer and realtime artist. Focus areas include vehicle feel, playable iteration, track readability, and game presentation.",
+    tags: ["Game Dev", "Racing", "Prototype", "Gameplay"],
+    image: "assets/images/racing-one.svg",
+    link: "project.html?id=four-racing-one"
+  },
+  {
+    id: "four-racing-two",
+    tab: "games",
+    group: "Game Projects",
+    title: "4 Racing Game Dev Project II",
+    year: "2026",
+    description: "Second racing game development project exploring systems, feedback, level pacing, and realtime implementation.",
+    notes: "Role: game developer and technical artist. Focus areas include systems feedback, level pacing, implementation, and iteration from playtesting.",
+    tags: ["Game Dev", "Systems", "Level Design", "Realtime"],
+    image: "assets/images/racing-two.svg",
+    link: "project.html?id=four-racing-two"
+  }
+];
